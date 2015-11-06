@@ -7,3 +7,4 @@ long_description 'Installs/Configures opscode-github'
 version '0.1.0'
 
 depends 'git', '~> 4.3'
+depends 'docker', '~> 2.0'
